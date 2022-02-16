@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AkashNama
+- 👋 Hi, I’m @ExperimentX
 - 👀 I’m interested in coding in html/css
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
